@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @etijo03
 - 👀 I’m interested in programing codes 
 - 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 😄 Pronouns:she/her
 - ⚡ Fun fact:i really enjoy learning and i like the stars 
 
 <!---
