@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @etijo03
-- 👀 I’m interested in cyber security 
+- 👋 Hi
+- 👀 I’m interested in security
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: Did you know that pigeons can actually recognize themselves in mirrors? So, the next time you see a pigeon staring at its reflection, it might just be thinking, "Wow, I look good today!" 🐦🪞
 
